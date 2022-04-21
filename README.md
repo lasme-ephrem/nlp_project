@@ -1,20 +1,17 @@
 # PROJET DE MACHINE LEARNING FOR NLP
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
   <br><br>
-  <img src="https://github.com/lasme-ephrem/nlp_project/tree/main/Images", width="400", height="341">
+  <img src="https://github.com/lasme-ephrem/nlp_project/tree/main/Images/logo_ensae.png", width="400", height="341">
 </p>
 
 
-<center>Réalisé par :</center>
-<center>ESSOH Lasme Ephrem Dominique (DSSA)</center> 
-<center>CHABAUD Mathieu (DSBD)</center> 
-<center>BERREBI Nathan (DSSA)</center>
+<p align="center">Réalisé par :</p>
 
-<center>Elèves-Ingénieurs 3A (2021 - 2022)</center>
-<center>Thème :</center>
-<center>Analyses textuelles sur Amazon Product Data : sentiment analysis and texts generation</center>
+<p align="center">ESSOH Lasme Ephrem Dominique (DSSA)</p>
+<p align="center">CHABAUD Mathieu (DSBD)</p>
+<p align="center">BERREBI Nathan (DSSA)</p>
+
+<p align="center">Elèves-Ingénieurs 3A (2021 - 2022)</p>
+<p align="center">Thème :</p>
+<p align="center">Analyses textuelles sur Amazon Product Data : sentiment analysis and texts generation</p>
