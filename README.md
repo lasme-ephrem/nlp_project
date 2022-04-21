@@ -5,6 +5,7 @@
   <img src="https://fr.wikipedia.org/wiki/Fichier:LOGO-ENSAE.png", width="400", height="341">
 </p>
 
+![image](https://user-images.githubusercontent.com/54639788/164411375-b0ec94ab-6c39-4019-9816-08d1bb4efc9c.png)
 
 <p align="center">Réalisé par :</p>
 
