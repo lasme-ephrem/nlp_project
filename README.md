@@ -1,4 +1,4 @@
-# PROJET DE MACHINE LEARNING FOR NLP
+<h1><p align="center"> PROJET DE MACHINE LEARNING FOR NLP </p></h1>
 
 <p align="center">
   <br><br>
