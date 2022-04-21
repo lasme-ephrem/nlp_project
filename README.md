@@ -1,6 +1,6 @@
 # PROJET DE MACHINE LEARNING FOR NLP
 
-<img src = "Images/logo_ensae.png", width="400", height="341"/>
+<img src = "https://github.com/lasme-ephrem/nlp_project/tree/main/Images", width="400", height="341"/>
 
 <center>Réalisé par :</center>
 <center>ESSOH Lasme Ephrem Dominique (DSSA)</center> 
