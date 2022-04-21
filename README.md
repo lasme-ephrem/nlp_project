@@ -14,4 +14,4 @@
 
 <p align="center">Elèves-Ingénieurs 3A (2021 - 2022)</p>
 <p align="center">Thème :</p>
-<p align="center">### Analyses textuelles sur Amazon Product Data : sentiment analysis and texts generation</p>
+<p align="center"><h3> Analyses textuelles sur Amazon Product Data : sentiment analysis and texts generation</h3></p>
