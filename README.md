@@ -9,7 +9,7 @@
 <p align="center">Réalisé par :</p>
 
 <p align="center">ESSOH Lasme Ephrem Dominique (DSSA)</p>
-<p align="center">CHABAUD Mathieu (DSBD)</p>
+<p align="center">CHABAUD Mathieu (DSSS)</p>
 <p align="center">BERREBI Nathan (DSSA)</p>
 
 <p align="center">Elèves-Ingénieurs 3A (2021 - 2022)</p>
