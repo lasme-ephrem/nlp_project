@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://github.com/lasme-ephrem/nlp_project/tree/main/Images/logo_ensae.png", width="400", height="341">
+  <img src="https://fr.wikipedia.org/wiki/Fichier:LOGO-ENSAE.png", width="400", height="341">
 </p>
 
 
