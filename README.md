@@ -6,10 +6,9 @@
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://github.com/lasme-ephrem/nlp_project/tree/main/Images", width="400", height="341">
 </p>
 
-<img src = "https://github.com/lasme-ephrem/nlp_project/tree/main/Images", width="400", height="341"/>
 
 <center>Réalisé par :</center>
 <center>ESSOH Lasme Ephrem Dominique (DSSA)</center> 
