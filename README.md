@@ -1,4 +1,5 @@
 <h1><p align="center"> PROJET DE MACHINE LEARNING FOR NLP </p></h1>
+<h3><p align="center"> (vueillez prendre le temps, svp, de lire le ce readme) </p></h3>
 
 <p align="center">
   <br><br>
