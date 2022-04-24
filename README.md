@@ -23,5 +23,5 @@ Ce repos github s'inscrit dans le cadre du projet de Machine Learning for NLP. I
 Le notebook
 
 ## Liens Google Colab 
-  Notebook principale : <a href  ="https://colab.research.google.com/drive/1N1I8gShlDpqSw53JlkRSr7ZSE28TtUsZ?usp=sharing"> MAIN COLAB.<a/>
-  Notebook du transfert du LSTM : <a href  =" https://colab.research.google.com/drive/1i5zehYMtjF6N2Nn3f0aB5XStkQSI_6ne?usp=sharing"> TRANSFERT COLAB.<a/>
+  Notebook principale : <a href="https://colab.research.google.com/drive/1N1I8gShlDpqSw53JlkRSr7ZSE28TtUsZ?usp=sharing"> MAIN COLAB.<a/>
+  Notebook du transfert du LSTM : <a href="https://colab.research.google.com/drive/1i5zehYMtjF6N2Nn3f0aB5XStkQSI_6ne?usp=sharing">TRANSFERT COLAB.<a/>
