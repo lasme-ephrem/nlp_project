@@ -15,3 +15,5 @@
 <p align="center">Elèves-Ingénieurs 3A (2021 - 2022)</p>
 <p align="center">Thème :</p>
 <h4><p align="center">Analyses textuelles sur Amazon Product Data : sentiment analysis and texts generation</p></h4>
+
+Lien COLAB : https://colab.research.google.com/drive/1N1I8gShlDpqSw53JlkRSr7ZSE28TtUsZ?usp=sharing
