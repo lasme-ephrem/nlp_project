@@ -2,7 +2,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png", width="400", height="341">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/LOGO-ENSAE.png/480px-LOGO-ENSAE.png", width="300", height="200">
 </p>
 
 
@@ -15,6 +15,10 @@
 <p align="center">Elèves-Ingénieurs 3A (2021 - 2022)</p>
 <p align="center">Thème :</p>
 <h4><p align="center">Analyses textuelles sur Amazon Product Data : sentiment analysis and texts generation</p></h4>
+
+# Description de ce repos
+
+Ce repos github s'inscrit dans le cadre du projet de Machine Learning for NLP. Il comprend l'ensemble des fichiers sources de notre groupe, principalement des fichiers notebooks écrits en Python. Ce repos peut être cloné et exécuté dans un calpin jupyter en prenant le soin de reproduit d'abord l'environnement python <a href  ="https://github.com/lasme-ephrem/nlp_project/blob/main/requirements.txt"> requirements <a/>
 
 Lien COLAB : https://colab.research.google.com/drive/1N1I8gShlDpqSw53JlkRSr7ZSE28TtUsZ?usp=sharing
 
