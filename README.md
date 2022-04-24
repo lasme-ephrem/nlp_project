@@ -17,3 +17,5 @@
 <h4><p align="center">Analyses textuelles sur Amazon Product Data : sentiment analysis and texts generation</p></h4>
 
 Lien COLAB : https://colab.research.google.com/drive/1N1I8gShlDpqSw53JlkRSr7ZSE28TtUsZ?usp=sharing
+
+Transfert ; https://colab.research.google.com/drive/1i5zehYMtjF6N2Nn3f0aB5XStkQSI_6ne?usp=sharing
