@@ -20,6 +20,10 @@
 
 Ce repos github s'inscrit dans le cadre du projet de Machine Learning for NLP. Il comprend l'ensemble des fichiers sources de notre groupe, principalement des fichiers notebooks écrits en Python. Ce repos peut être cloné et exécuté dans un calpin jupyter, en local, en prenant le soin de reproduire d'abord l'environnement python : <a href  ="https://github.com/lasme-ephrem/nlp_project/blob/main/requirements.txt"> requirements.txt <a/>. Il peut aussi être exécuté directement depuis le lien Google Colab ci-dessous.
 
-## Liens Google Colab 
+### Liens Google Colab 
   Notebook principale : <a href="https://colab.research.google.com/drive/1N1I8gShlDpqSw53JlkRSr7ZSE28TtUsZ?usp=sharing"> MAIN COLAB.<a/>
   Notebook du transfert du LSTM : <a href="https://colab.research.google.com/drive/1i5zehYMtjF6N2Nn3f0aB5XStkQSI_6ne?usp=sharing">TRANSFERT COLAB.<a/>
+
+### Structure du travail
+  
+  Le fichier principal de ce projet est le notebook suivant <a href  ="https://github.com/lasme-ephrem/nlp_project/blob/main/rapport_notebook_nlp_project.ipynb> notebook projet NLP <a/> (<a href="https://colab.research.google.com/drive/1N1I8gShlDpqSw53JlkRSr7ZSE28TtUsZ?usp=sharing"> Lien Colab.<a/>).
